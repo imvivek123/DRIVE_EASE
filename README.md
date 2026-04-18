@@ -176,7 +176,7 @@ GET /api/cars?type=SUV&min_price=1000&max_price=3000&available=true
 ## 🧪 Testing the App
 
 ### Register & Login
-1. Open http://localhost:5173
+
 2. Click "Register" and create an account
 3. Login with your credentials
 4. You'll be redirected to the cars page
