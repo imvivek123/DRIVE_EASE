@@ -8,9 +8,7 @@
 
 A **full-stack car rental booking platform** that allows users to browse cars, filter by type and price, register/login with JWT authentication, make bookings, and admins to manage the fleet and view all reservations.
 
-## 🎯 Live Demo
-- **Frontend**: Coming Soon (Deploy on Render)
-- **Backend API**: Coming Soon (Deploy on Render)
+
 
 ## ✨ Features
 
