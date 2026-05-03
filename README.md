@@ -1,10 +1,5 @@
 # DriveEase - Car Rental Booking Platform
 
-![React](https://img.shields.io/badge/React-18.0-blue?logo=react)
-![Flask](https://img.shields.io/badge/Flask-3.0-green?logo=flask)
-![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-Database-lightblue?logo=sqlite)
-![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 A **full-stack car rental booking platform** that allows users to browse cars, filter by type and price, register/login with JWT authentication, make bookings, and admins to manage the fleet and view all reservations.
 
